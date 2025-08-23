@@ -25,7 +25,7 @@
 
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
-    <a href="mailto:wwajahatali78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="MuaazAsif Ali - Email"></a>
+    <a href="mailto:wwajahatali78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Wajahat Ali - Email"></a>
     <a href="https://www.linkedin.com/in/muhammed-muaaz/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="MuaazAsif Ali-Linkedin"></a><br>
     <a href="https://www.facebook.com/muaaz.asif.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="MuaazAsif Ali- Facebook"></a>
     <a href="https://www.fiverr.com/muaazasif572" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Muaaz Asif-fiverr"></a>
