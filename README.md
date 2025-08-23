@@ -12,10 +12,10 @@
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
 • 💪🏻 I'm a Web3, and AI Enthusiast.<br>
-• 🌱 I’m currently learning LLM's and Generative AI... 😭<br> 
+• 🌱 I’m currently learning SQL and Generative AI... 😭<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
-• 📗 I'm currently Learning from Panaverse, Data Analyst.<br>
-• 🔥 Python Developer and Power BI Developer.<br>
+• 📗 I'm currently Learning from Bano qabil, Data Analyst.<br>
+• 🔥 Power BI Developer and Canva Designer.<br>
 • 💸 LEVEL-01 SELLER of Wajahat Ali on Fiverr.<br>
 <hr>
 
