@@ -16,7 +16,7 @@
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
 • 🔥 Python Developer and Power BI Developer.<br>
-• 💸 LEVEL-01 SELLER of MuaazAsif on Fiverr.<br>
+• 💸 LEVEL-01 SELLER of Wajahat Ali on Fiverr.<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
