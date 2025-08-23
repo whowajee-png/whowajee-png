@@ -1,9 +1,9 @@
 <!-- animation start  -->
   <div align="center">
-    <h1> Hi there, I'm Muaaz Asif👋</h1>
+    <h1> Hi there, I'm Wajahat Ali👋</h1>
   </div>
 <p align="center">
-<a href="https://github.com/muaazasif"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis+and+Python+Developer;+Power+BI+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/muaazasif"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analysis+and+Power+BI+Developer;+Canva+Designer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 <!-- animation end  -->
 			
@@ -14,9 +14,9 @@
 • 💪🏻 I'm a Web3, and AI Enthusiast.<br>
 • 🌱 I’m currently learning LLM's and Generative AI... 😭<br> 
 • 🚀 I'm a Consistent, Hard-working, and Motivated person.<br> 
-• 📗 I'm currently Learning from Panaverse, PIAIC.<br>
+• 📗 I'm currently Learning from Panaverse, Data Analyst.<br>
 • 🔥 Python Developer and Power BI Developer.<br>
-• 💸 LEVEL-01 SELLER of MuaazAsif on Fiverr.<br>
+• 💸 LEVEL-01 SELLER of Wajahat Ali on Fiverr.<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
